@@ -1,0 +1,38 @@
+html
+{
+    background: url("https://goo.gl/EvNKYe")
+      no-repeat center fixed;
+    background-size: cover;
+}
+body
+{
+  background: url("https://goo.gl/EvNKYe")
+  no-repeat center fixed;
+  text-align: center;
+}
+.text-box
+{
+  background-color: #ecf2f8;
+  border: 1px solid black;
+  border-radius: 5px;
+  opacity: 0.6;
+  padding: 15px;
+}
+
+.author
+{
+  text-align: right;
+}
+
+.text-look
+{
+  text-align: left;
+}
+
+#github
+{
+  height: 75px;
+}
+.ui-effects-wrapper {
+  display:inline;
+}
